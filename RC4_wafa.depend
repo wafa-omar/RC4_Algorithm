@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1617033335 source:c:\users\hosin wafa\desktop\rc4_wafa\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<ctype.h>
+
